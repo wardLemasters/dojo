@@ -1,3 +1,20 @@
 # hello world!
 
-this is a readme for my first project
+from life import Creativity
+
+class Life(Creativity):
+    def __init_life__(self):
+        self.current_job_title = "___"
+        self.open_for_opportunity = True
+
+    def current_projects(self):
+        self.currently_learning = "Python and FLASK 📚"
+        self.currently_working_on = "New and challenging web designs 🌱"
+        self.excited_for = "New ways to create and learn 🌎"
+    
+    def contact_me(self):
+        self.email = "ward.lemasters05@gmail.com"
+ 
+if '__repo__' == '__helpful__':
+    star.it()
+    fork.it()
