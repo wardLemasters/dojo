@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    padding-left: 10%;
+}
+.h1{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+}
+
+.ptag{
+    display: flex;
+    padding-left: 10%;
+    font-size: larger;
+}
+.login_header{
+        display: flex;
+        justify-content: center;
+}
